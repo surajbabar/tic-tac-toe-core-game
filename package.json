@@ -1,0 +1,22 @@
+{
+  "name": "tic-tac-toe-core-module",
+  "version": "0.0.1",
+  "description": "A tic tac toe game module written in javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/surajbabar/tic-tac-toe-core-game.git"
+  },
+  "keywords": [
+    "tic-tac-toe"
+  ],
+  "author": "surajbabar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/surajbabar/tic-tac-toe-core-game/issues"
+  },
+  "homepage": "https://github.com/surajbabar/tic-tac-toe-core-game#readme"
+}
